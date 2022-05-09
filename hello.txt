@@ -1,3 +1,0 @@
-this is a project on hyperledger
-New
-a1
